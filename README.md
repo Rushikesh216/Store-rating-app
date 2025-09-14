@@ -150,3 +150,4 @@ JWT_SECRET=your_jwt_secret
 
 Vite will start on http://localhost:5173 by default.
 # Store-rating-app
+# Store-rating-app
